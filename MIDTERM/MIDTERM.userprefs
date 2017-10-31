@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/femmePeeForce.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PeeForce.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Skel_HitDoor.cs" Line="17" Column="3" />
+      <File FileName="Assets/Scripts/femmePeeForce.cs" Line="18" Column="2" />
+      <File FileName="Assets/Scripts/ColorChange.cs" Line="18" Column="6" />
+      <File FileName="Assets/Scripts/Malewin.cs" Line="22" Column="16" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs" Line="202" Column="35" />
+      <File FileName="Assets/Scripts/FemaleWin.cs" Line="31" Column="1" />
+      <File FileName="Assets/Scripts/PeeAppears.cs" Line="25" Column="27" />
+      <File FileName="Assets/Scripts/Skel_HitDoorMen.cs" Line="12" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
